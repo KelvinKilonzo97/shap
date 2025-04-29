@@ -1,0 +1,10 @@
+
+streamlit
+tensorflow
+scikit-learn
+pandas
+numpy
+joblib
+meteostat
+holidays
+shap
